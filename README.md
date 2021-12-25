@@ -9,8 +9,7 @@
 
 <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharPachori&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
 
-<!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TusharPachori&theme=github_dark&layout=compact) -->
-<p align="center"> <img alt="Wakatime Stats" href="https://github-readme-stats.vercel.app/api/wakatime?username=TusharPachori&theme=github_dark&layout=compact" /> </p>
+<p align="center"> <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TusharPachori&theme=github_dark&layout=compact" /> </p>
 
 <p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TusharPachori&show_icons=true&locale=en&theme=github_dark" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharPachori&theme=dark" /> </p>

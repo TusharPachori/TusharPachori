@@ -16,6 +16,8 @@
 
 <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=TusharPachori&theme=github" /> </p>
 
+<p align="center"> <img alt="Activity" src="https://raw.githubusercontent.com/TusharPachori/TusharPachori/dist/snake.svg" /> </p>
+
 
 <!--## Best Repositories-->
 <!-- [![Shikijs](https://github-readme-stats.vercel.app/api/pin/?username=TusharPachori&repo=&show_icons=true&theme=github_dark)](https://github.com/TusharPachori/) -->

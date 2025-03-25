@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Pachori</h1>
-<h3 align="center">A Back End developer and Designer</h3>
+<h3 align="center">A Back End Developer and Designer</h3>
 
 ## GitHub Stats
 
